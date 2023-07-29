@@ -1,6 +1,6 @@
 # 🏄‍♂️ BogioJ
 
-**`Engineer with many skills (Automation, Programming, Gaming, Film-making, Editting, Data Science & more)`**
+**`Engineer (Automation/Programming/Gaming/Film-making/Data Science & more)`**
 
 Just a guy with many skills creating projects that interest me.
 
